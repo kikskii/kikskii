@@ -1,5 +1,5 @@
 👋 Hey there, I’m Joyce S. Ramos!
- 🚀 Aspiring Developer | Tech Explorer | Lifelong Learner
+   🚀 Aspiring Developer | Tech Explorer | Lifelong Learner
 
 🌱 What I’m Learning
   - I am passionate about web development and data-driven solutions. I’m particularly interested in how emerging technologies can improve systems. I enjoy creating applications, experimenting with code, and finding ways to transform ideas into tools that make processes smarter and more efficient.
