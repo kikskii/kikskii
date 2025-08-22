@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hey there, I’m Joyce S. Ramos!
+🚀 Aspiring Developer | Tech Explorer | Lifelong Learner
 
-<!--
-**kikskii/kikskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 What I’m Learning
+  - Currently diving into the world of Python, SQL, and Flask -- building small projects, breaking things (and fixing them 😅), and slowly leveling up my dev journey.
 
-Here are some ideas to get you started:
+🛠️ Skills (Work in Progress ⚡)
+  - 🐍 Python basics
+  - 🗄️ SQL queries & database handling
+  - 🌐 Flask for web apps
+  - 📱 Dart & Flutter for cross-platform mobile apps
+  - 💡 Curiosity, problem-solving, courage to Google everything, and proper prompting ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals
+  - Build real-world projects that solve actual problems
+  - Strengthen my coding fundamentals
+  - Collaborate with other developers and learn by doing
+
+📬 Let’s Connect!
+  - 💌 Email: joyceramos270@gmail.com
+  - 🐙 GitHub: https://github.com/kikskii
